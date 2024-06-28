@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "Database:ConnectionString": "",
+    "Storage:ConnectionString": "",
+    "Storage:ContainerName": "images",
+    "MaxFileSizeInMB": "100"
+  }
+}
